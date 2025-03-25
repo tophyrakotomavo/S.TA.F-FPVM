@@ -14,5 +14,5 @@ export const middleware = async (req: NextRequest): Promise<NextResponse> => {
 };
 
 export const config = {
-  matcher: ["/((?!api|static|.*\\..*|_next|favicon.ico|robots.txt).*)"],
+  matcher: ["/((?!api|static|.*\\..*|_next|staf.ico|robots.txt).*)"],
 };

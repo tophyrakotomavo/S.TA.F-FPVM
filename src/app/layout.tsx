@@ -17,7 +17,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "ZanaRoot",
+  title: "S.TA.F Fpvm",
   description: "Building the Future, Rooted in Madagascar",
 };
 

@@ -19,11 +19,11 @@ const PublicLayout = async ({ children }: { children: React.ReactNode }) => {
             <Link href="/">
               <div className="flex items-center">
                 <Image
-                  src="/zanaroot.webp"
+                  src="/staf_logo.webp"
                   alt="Logo"
                   width={40}
                   height={40}
-                  className="mr-2"
+                  className="mr-2 rounded-full"
                 />
                 <span className="text-xl font-semibold">{t("title")}</span>
               </div>

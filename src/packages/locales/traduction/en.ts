@@ -9,7 +9,7 @@ export default {
     terms: "Terms of Service",
   },
   common: {
-    title: "zanaroot",
+    title: "S.TA.F",
     validating: "Validating...",
     logout: "Log out",
   },
